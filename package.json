@@ -1,0 +1,23 @@
+{
+    "name": "my-agriculture-app",
+    "version": "1.0.0",
+    "description": "Backend for Sustainable Agriculture",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^5.10.9",
+      "dotenv": "^8.2.0",
+      "crypto": "^1.0.1",
+      "@celo/contractkit": "^1.0.0"
+    },
+    "devDependencies": {},
+    "engines": {
+      "node": ">=12.0.0"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
