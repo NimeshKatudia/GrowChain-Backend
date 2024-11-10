@@ -30,7 +30,7 @@ def get_crop_info(image_path):
                         "if the according to corp there is enogh hydration and is the pestisite good enough according to "
                         "quality of corp. I WANT CORP TYPE, IS THERE ENOGH HYDRATION, AND IS THE PESTISIE GOOD ENOUGH, "
                         "IN JSON FORMAT ONLY JASON PART NO OTHER FORMATIONG LIKE CODE BLOCK AND ALL 4 FIELD DESCRIPTION "
-                        "IN WHICH ALL THE THINGS AS IT IS AND CORPTYPE FIELD then HYDRATION FIELD NUMERIC DATA then I want two more field one that says Time: Time Left to harvest in DAYS  & Recomendation Field where room for improvement is there (in 2 points max 4 words max in a point)& is CROP CUT OR NOT True or false ACURATE ANSWERS ONLY"
+                        "IN WHICH ALL THE THINGS AS IT IS AND CORPTYPE FIELD then HYDRATION FIELD NUMERIC DATA then I want two more field one that says Time: Time Left to harvest in DAYS  & Recomendation Field where room for improvement is there (in 2 points max 4 words max in a point NO ARRAY PLAIN TEXT)& is CROP CUT OR NOT True or false ACURATE ANSWERS ONLY"
                         "QUALITY FIELD WITH NUMERIC DATA NUMERIC DATA IN BETWEEN 0 to 100 NO 'CODE BLOCK THIS IS NOT AN WEB BROWSER,NO /n"
                     ),
                 }
