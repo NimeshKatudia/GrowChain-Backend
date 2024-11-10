@@ -31,6 +31,18 @@ const farmerSchema = new mongoose.Schema({
     type: Date,
     default: Date.now,
   },
+  isEligible: {
+    type: Boolean,
+    default: false, // Default to not eligible
+  },
+  claimStatus: {
+    type: Boolean,
+    default: false, // Default to not claimed
+  },
+  sustainabilityReasons: {
+    type: [String], // Reasons for meeting sustainability criteria
+    default: [],
+  },
 });
 
 module.exports = mongoose.model("Farmer", farmerSchema);
