@@ -1,0 +1,4 @@
+[
+    "{\"CropType\": \"Wheat\", \"Hydration\": \"80\", \"Quality\": \"90\", \"Time\": \"5\", \"Recommendation\": \"Increase Hydration, Reduce Pesticide\"} \n",
+    "{\"CropType\": \"Wheat\", \"Hydration\": \"75\", \"Time\": \"0\", \"Recommendation\": \"Cut crop\", \"Quality\": \"90\", \"IsCropCut\": \"True\"} \n"
+]

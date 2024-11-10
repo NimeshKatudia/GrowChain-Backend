@@ -9,7 +9,7 @@ const activitySchema = new mongoose.Schema(
     },
     crop: {
       type: String,
-      enum: ["Wheat", "Millet", "Corn", "Rice", "Barley"], // Add more crops as needed
+      enum: ["Wheat", "Millet", "Corn", "Ragi", "Barley"], // Add more crops as needed
       required: true,
     },
     quality: { type: String, required: true },
